@@ -17,6 +17,7 @@
           <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/html-E34F26?style=plastic&logo=html&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
           </div>
     </div>
