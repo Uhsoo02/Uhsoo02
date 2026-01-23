@@ -33,7 +33,7 @@
            /> </div> 
     </div>
 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📌 주요 프로젝트 </h2>
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📌 Featured Project </h2>
 
 <div style="text-align: left;">
 <h3 style="color: #c9d1d9;"> 🐟 FishTankControlSystem </h3>
