@@ -80,7 +80,18 @@
 
 ### 🏥 HEALYX
 
-> 국내 거주 외국인의 의료 서비스 이용을 돕는 Flutter 기반 애플리케이션
+> 국내 거주 외국인의 의료 서비스 이용을 돕는 Flutter 기반 의료 지원 애플리케이션
+
+- **Project Type:** Team Project
+- **Role:** Frontend Developer
+- **Tech:** Flutter, Dart, REST API
+- **Collaboration:** Git, GitHub, Pull Request
+- 🔗 [HEALYX 프로젝트 저장소](https://github.com/Uhsoo02/Healyx)
+
+<details>
+<summary><b>HEALYX 프로젝트 상세 내용 보기</b></summary>
+
+<br/>
 
 외국인 사용자가 언어 장벽으로 인해 겪을 수 있는  
 의료 서비스 이용의 불편함을 줄이고자 개발한 팀 프로젝트입니다.
@@ -132,12 +143,7 @@ HEALYX를 개발하면서 단순히 화면을 구현하는 것에 그치지 않�
 로그인 상태와 비로그인 상태에 따른 권한 분기 및 다양한 예외 상황을 처리하며  
 문제를 해결하는 경험을 쌓았습니다.
 
-- **Project Type:** Team Project
-- **Role:** Frontend Developer
-- **Tech:** Flutter, Dart, REST API
-- **Collaboration:** Git, GitHub, Pull Request
-
-🔗 [HEALYX 프로젝트 저장소](https://github.com/Uhsoo02/Healyx)
+</details>
 
 <br/>
 
@@ -147,7 +153,18 @@ HEALYX를 개발하면서 단순히 화면을 구현하는 것에 그치지 않�
 
 ### 🐟 Smart Fish Tank Control System
 
-> IoT 하드웨어와 모바일 앱을 연동해 어항 환경을 자동으로 관리하는 시스템
+> IoT 하드웨어와 Flutter 앱을 연동해 어항 환경을 자동으로 관리하는 시스템
+
+- **Project Type:** Team Project
+- **Role:** Frontend & Hardware
+- **Tech:** Flutter, Arduino, ESP8266(NodeMCU)
+- **IDE / Tool:** Android Studio, GitHub
+- 🔗 [Smart Fish Tank Control System 저장소](https://github.com/Uhsoo02/FishTankControlSystem)
+
+<details>
+<summary><b>Smart Fish Tank 프로젝트 상세 내용 보기</b></summary>
+
+<br/>
 
 센서를 통해 어항의 환경 데이터를 수집하고,  
 사용자가 모바일 앱에서 어항 상태를 확인하고 장치를 관리할 수 있도록 제작한 팀 프로젝트입니다.
@@ -184,12 +201,7 @@ IoT 센서에서 수집된 데이터가 사용자 화면에 전달되는 전체 
 또한 팀원들과 역할을 나누고 각 기능을 통합하는 과정에서  
 기능 간 연결과 협업의 중요성을 배웠습니다.
 
-- **Project Type:** Team Project
-- **Role:** Frontend & Hardware
-- **Tech:** Flutter, Arduino, ESP8266(NodeMCU)
-- **IDE / Tool:** Android Studio, GitHub
-
-🔗 [Smart Fish Tank Control System 저장소](https://github.com/Uhsoo02/FishTankControlSystem)
+</details>
 
 <br/>
 
