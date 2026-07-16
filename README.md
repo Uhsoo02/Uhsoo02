@@ -224,13 +224,13 @@ Spring Boot도 함께 학습하고 있습니다.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Uhsoo02&show_icons=true&hide_border=true&count_private=true&bg_color=60,111827,1f2933&title_color=93c5fd&text_color=c9d1d9&icon_color=93c5fd"
+  src="https://github-stats-extended.vercel.app/api?username=Uhsoo02&show_icons=true&hide_border=true&bg_color=60,111827,1f2933&title_color=93c5fd&text_color=c9d1d9&icon_color=93c5fd"
   height="165"
   alt="Uhsoo02 GitHub Stats"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uhsoo02&layout=compact&hide_border=true&bg_color=60,111827,1f2933&title_color=93c5fd&text_color=c9d1d9"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Uhsoo02&layout=compact&hide_border=true&bg_color=60,111827,1f2933&title_color=93c5fd&text_color=c9d1d9"
   height="165"
   alt="Uhsoo02 Top Languages"
 />
