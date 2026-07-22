@@ -83,7 +83,7 @@
 > 국내 거주 외국인의 의료 서비스 이용을 돕는 Flutter 기반 의료 지원 애플리케이션
 
 - **Project Type:** Team Project
-- **Role:** Frontend Developer
+- **Role:** Frontend Developer & Publisher
 - **Tech:** Flutter, Dart, REST API
 - **Collaboration:** Git, GitHub, Pull Request
 - 🔗 [HEALYX 프로젝트 저장소](https://github.com/Uhsoo02/Healyx)
